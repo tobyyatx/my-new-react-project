@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-new-react-project/static/js/main.ef123bb2.js",
+    "index.html": "/my-new-react-project/index.html",
+    "main.ef123bb2.js.map": "/my-new-react-project/static/js/main.ef123bb2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ef123bb2.js"
+  ]
+}
